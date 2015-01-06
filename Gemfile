@@ -25,7 +25,7 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
 
 group :development, :test do
-  gem 'sqlite3', '1.3.5'
+  gem 'sqlite3', '1.3.10'
   gem 'rspec-rails', '2.11.0'
 end
 
